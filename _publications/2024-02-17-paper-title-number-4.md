@@ -1,10 +1,5 @@
 ---
-title: "[DATE'25] ERASER: Efficient RTL FAult Simulation Framework with Trimmed Execution Redundancy"
-collection: publications
-category: conferences
-permalink: /publication/DATE25/eraser
-excerpt: 'This paper is about RTL fault simulation.'
-date: 2025-03-30
+title: "[DATE'25] J. Tang, J. Mu, S. Liu, and others, "ERASER: Efficient RTL Fault Simulation Framework with Trimmed Execution Redundancy," in 2025 Design, Automation \& Test in Europe (DATE), Lyon, France, 2025, pp. 1--7."
 paperurl: 'http://academicpages.github.io/files/eraser.pdf'
 ---
 
