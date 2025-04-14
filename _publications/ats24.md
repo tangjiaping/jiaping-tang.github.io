@@ -4,7 +4,7 @@ collection: publications
 date: 2024-12-17
 venue: #
 paperurl: "https://tangjiaping.github.io/jiaping-tang.github.io/files/ATS2024.pdf"
-category: manuscripts
+category: conferences
 permalink: #
 excerpt: #
 slidesurl: #
