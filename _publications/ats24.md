@@ -3,7 +3,7 @@ title: "[ATS'24] J. Tang et al., \"Accelerating Sequential Circuit Simulation wi
 collection: publications
 date: 2024-12-17
 venue: #
-paperurl: "https://tangjiaping.github.io/jiaping-tang.github.io/files/ats24.pdf"
+paperurl: "https://tangjiaping.github.io/jiaping-tang.github.io/files/ATS2024.pdf"
 category: manuscripts
 permalink: #
 excerpt: #
