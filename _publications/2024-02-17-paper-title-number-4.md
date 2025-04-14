@@ -4,9 +4,9 @@ collection: publications
 date: 2025-03-30
 authors: #
 venue: #
-type: "conference"
+type: "conferences"
 paperurl: "https://tangjiaping.github.io/jiaping-tang.github.io/files/eraser.pdf"
-category: manuscripts
+category: conferences
 permalink: #
 excerpt: #
 slidesurl: #
