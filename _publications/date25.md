@@ -1,5 +1,5 @@
 ---
-title: "[DATE'25] J. Tang, J. Mu, S. Liu, and others, \"ERASER: Efficient RTL Fault Simulation Framework with Trimmed Execution Redundancy,\" in 2025 Design, Automation & Test in Europe (DATE), Lyon, France, 2025, pp. 1--7."
+title: "[DATE'25] J. Tang et al., \"ERASER: Efficient RTL Fault Simulation Framework with Trimmed Execution Redundancy,\" in 2025 Design, Automation & Test in Europe (DATE), Lyon, France, 2025, pp. 1--7."
 collection: publications
 date: 2025-03-30
 authors: #
